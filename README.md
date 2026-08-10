@@ -2,6 +2,9 @@
 
 A portfolio-ready full-stack starter for an AI-powered career preparation platform.
 
+#Live demo
+[CareerForge AI — Live Demo](https://careerforge-ai-qsyc.onrender.com/)
+
 ## Features
 - Dashboard with job-readiness metrics
 - User registration/login with JWT
